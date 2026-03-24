@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manuelpi-gith
 - 👀 I’m interested in videogames and football
 - 🌱 I’m currently learning cybersecurity and forensis analysis
-- 📫 How to reach me manuel.pimentel.mcif@gmail.com
+- 📫 How to reach me manuelbpimentel@gmail.com
 - ⚡ Fun fact: I have an Electrotecnical and Computers Engineering degree.
 
 <!---
